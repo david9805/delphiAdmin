@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/15 22:06:18.000.919,=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2024/08/15 22:06:18.000.737,=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2024/08/15 22:06:19.000.014,=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2024/08/15 22:13:44.000.643,C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2024/08/15 22:13:44.000.643,C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2024/08/15 22:13:45.000.736,C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2024/08/15 22:13:45.000.736,C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\WebModuleUnit1.pas</Transaction>
+    <Transaction>2024/08/15 22:13:46.000.688,C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\FormUnit1.pas=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\FormUnit1.pas</Transaction>
+    <Transaction>2024/08/15 22:13:46.000.688,C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\FormUnit1.dfm</Transaction>
+    <Transaction>2024/08/15 22:13:47.000.633,C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\Project1.dproj</Transaction>
+    <Transaction>2024/08/15 23:03:04.000.727,=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\Unit1.pas</Transaction>
+    <Transaction>2024/08/15 23:03:17.000.283,C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\Unit1.pas=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\administracion.pas</Transaction>
+    <Transaction>2024/08/15 23:03:17.000.283,C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\Unit1.dfm=C:\Users\User\OneDrive\Documents\Embarcadero\Studio\Projects\pruebaConocimiento\administracion.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="FormUnit1.pas"/>
+    <File Path="FormUnit1.dfm"/>
+    <File Path="ServerMethodsUnit1.pas"/>
+    <File Path="ServerMethodsUnit1.dfm"/>
+    <File Path="WebModuleUnit1.pas"/>
+    <File Path="WebModuleUnit1.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
